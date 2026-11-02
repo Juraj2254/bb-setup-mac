@@ -1,5 +1,7 @@
 # bb na Macu
 
+**Detaljan vodič korak po korak, s naredbama za kopiranje i provjerama: [VODIC.md](VODIC.md)**
+
 Instalaciju bb-a odradi AI agent (Codex ili Jarvis). Ti samo pokreneš jednu naredbu, prijaviš se gdje te
 pita i klikneš što ti kaže.
 
@@ -57,7 +59,7 @@ bash ~/Downloads/bb-setup-mac-main/bootstrap.sh jarvis
 6. bb aplikacija i bb naredba: `scripts/install-bb-mac.sh`.
 7. Zajednička memorija, skillovi i uvoz starog konteksta: `scripts/bb-harness.sh`.
 
-Upute za agenta su u [AGENTS.md](AGENTS.md). Bez agenta: [docs/RUCNO.md](docs/RUCNO.md).
+Upute za agenta su u [AGENTS.md](AGENTS.md). Bez agenta: [VODIC.md](VODIC.md) (detaljno) ili [docs/RUCNO.md](docs/RUCNO.md) (kratko).
 Video ručnog postupka: [docs/bb-mac-480p.mp4](docs/bb-mac-480p.mp4).
 
 ## Svaki dan
